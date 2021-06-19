@@ -1,0 +1,24 @@
+{
+  "name": "axer",
+  "version": "1.0.0",
+  "description": "Development advanced",
+  "main": "src/Main.ts",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-aethex/Axer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-aethex/Axer/issues"
+  },
+  "homepage": "https://github.com/dev-aethex/Axer#readme",
+  "devDependencies": {
+    "@types/electron": "^1.6.10",
+    "@types/node": "^14.17.3",
+    "electron": "^13.1.2"
+  }
+}
